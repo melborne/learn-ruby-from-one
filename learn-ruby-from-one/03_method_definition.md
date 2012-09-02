@@ -47,12 +47,11 @@
 * メソッドを持っている
 * ことを思い出そう
 
-
 !SLIDE bullets
 * そうあなたのメソッドも
 * <strong class='green'>Fixnum</strong>クラスに追加すればいい
 
-!SLIDE bullets
+!SLIDE execute
 
     @@@ruby
     class Fixnum
@@ -117,7 +116,6 @@
 !SLIDE bullets center
 * あなたが作った
 * <strong class='orange'>hello</strong>に答えられる！
-
 
 ![method](img01.png)
 

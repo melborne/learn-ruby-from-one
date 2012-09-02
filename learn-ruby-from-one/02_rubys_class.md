@@ -37,13 +37,13 @@
 * そして１があなたからの
 * メッセージを受け取ると
 * それを<strong class='green'>Fixnum</strong>に渡して
+
 !SLIDE bullets
 * その返答が得られたら
 * １はそれをあなたに
 * 返しているだけなのだ
 
 !SLIDE bullets
-
 * つまり１は
 * 「ググって」ばかりの
 * 私やあなたと同じで
@@ -64,7 +64,6 @@
 * 存在なのである..
 
 !SLIDE bullets
-
 * <strong class='ruby'>Ruby</strong>設計者が
 * このような仕組みを採用した理由は
 * 容易に想像がつくだろう
