@@ -1,8 +1,7 @@
 !SLIDE
 # １から始める<strong class='ruby' id='title'>Ruby</strong> #
-
-!SLIDE subsection transition=fade
-# Rubyの１について
+### kyoendo(a.k.a melborne)
+### [http://melborne.github.com](http://melborne.github.com)
 
 !SLIDE bullets
 * 数学の世界で１は数である

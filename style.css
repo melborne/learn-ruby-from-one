@@ -14,16 +14,19 @@ body {
   font-size: 40pt;
 }
 
+.ruby#title {
+  font-size: 120%;
+}
+
+#me {
+}
+
 .green {
   color: green;
 }
 
 .orange {
   color: orange;
-}
-
-#title {
-  font-size: 68pt;
 }
 
 .subsection h1 {
@@ -42,11 +45,12 @@ body {
   font-size: 90%;
 }
 
-.end {
-  background-color: #EEEEFF;
-}
-
 pre.sh_ruby.sh_sourceCode {
   background-color: #F8F8FF;
   border: thin solid #222;
 }
+
+.end {
+  background-color: #EEEEFF;
+}
+
