@@ -161,6 +161,6 @@
 !SLIDE commandline incremental end
 
     $ at_exit {
-    $ 　print "Thank you for watching!\n"
+    $ 　puts "Thank you for watching!"
     $ }
 
