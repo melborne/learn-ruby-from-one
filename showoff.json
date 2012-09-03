@@ -2,7 +2,7 @@
   "name": "Learn Ruby from One",
   "description" : "Explain Ruby's Class system for Beginners",
   "author" : "kyoendo a.k.a melborne",
-  "templates" : { "template" : "simple.tpl" },
+  "templates" : { "default" : "simple.tpl" },
   "sections": [
     { "section" : "learn-ruby-from-one"}
   ]
